@@ -24,7 +24,7 @@ body {
 .eisenhower { text-align: center;
 }
 }
-.centered-main-page-element {
+.container-center {
   display: block;
   width: 400px;
   margin: 0 auto 0;
