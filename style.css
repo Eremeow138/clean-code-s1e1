@@ -4,6 +4,14 @@
   color: #333;
   font-family: Lato, sans-serif;
 }
+.visually-hidden {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  opacity: 0;
+}
 .eisenhower {
   width: 500px;
   margin: 0 auto;
